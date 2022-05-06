@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+pydantic
+python-dotenv
+catboost
+dvc
